@@ -1,0 +1,9 @@
+h1{
+    color: #754EF9;
+    font-family: 'Open sans', sans-serif;
+    text-transform: uppercase;
+    transform-origin: left center;
+    transform: rotate(90deg);
+    position: absolute;
+    right: -100px;
+}
