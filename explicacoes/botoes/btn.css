@@ -1,0 +1,16 @@
+a{
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+    padding: 0px 30px;
+    border-radius: 25px;
+    background-color: #754EF9;
+    border: none;
+    color: #ffffff;
+    padding: 0px 30px;
+    height: 50px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
